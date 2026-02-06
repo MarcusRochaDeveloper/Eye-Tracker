@@ -114,6 +114,7 @@ O arquivo `settings.py` centraliza as configurações, mas você pode sobrescrev
 
 ## 📂 Estrutura do Projeto
 
+```
 
 project/
 ├── main.py              # Ponto de entrada (Entry Point)
